@@ -1,0 +1,17 @@
+%%% Nice Shades of Black %%%
+- Ink black (33, 33, 34)
+
+%%% Nice Shades of Gray %%%
+- Warm gray no. 4 (202, 201, 194)
+    - Some % darker (105, 104, 98)
+
+%%% Nice Shades of Green %%%
+- Bangladesh green (0, 106, 78)
+    - 25% darker (8,76,58)
+
+%%% Nice Shades of Purple %%%
+- Blue-magenta (104, 67, 150)
+    - Some % darker (68, 52, 86)
+
+%%% Nice Shades of White %%%
+- Cream white (251, 241, 229)
