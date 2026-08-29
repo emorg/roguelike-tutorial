@@ -1,0 +1,14 @@
+white = (251, 241, 229)
+black = (33, 33, 34)
+
+player_atk = (0xE0, 0xE0, 0xE0)
+enemy_atk = (0xFF, 0xC0, 0xC0)
+
+player_die = (0xFF, 0x30, 0x30)
+enemy_die = (0xFF, 0xA0, 0x30)
+
+welcome_text = (0x20, 0xA0, 0xFF)
+
+bar_text = white
+bar_filled = (40, 100, 0)
+bar_empty = (120, 20, 10)
